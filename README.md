@@ -5,7 +5,7 @@ a list of awesome repos
 
 ## awesome lists
 
-- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 - [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp – A curated list of awesome curated lists of many topics.
 - [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
@@ -13,8 +13,8 @@ a list of awesome repos
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
 - [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 
-* [lists](https://github.com/jnv/lists)
-
+* **[lists](https://github.com/jnv/lists)** - The definitive list of (awesome) lists curated on GitHub.
+(comment: No awesome, but more awesome)
 
 
 ## Programming languages
