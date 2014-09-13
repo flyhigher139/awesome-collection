@@ -3,23 +3,21 @@ awesome-collection
 
 a list of awesome repos
 
-base on [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-
 ## awesome lists
 
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [awesome-all](https://github.com/bradoyler/awesome-all) – A curated list of awesome lists of awesome frameworks, libraries and software
+- [awesome-awesome](https://github.com/emijrp/awesome-awesome) by @emijrp – A curated list of awesome curated lists of many topics.
+- [awesome-awesome](https://github.com/erichs/awesome-awesome) by @erichs – A curated list of awesome curated lists! Inspired by inspiration.
+- [awesome-awesome](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen – A curated list of curated lists of libraries, resources and shiny things for various languages.
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) – A curated list of awesome awesomeness
+- [awesome-awesomes](https://github.com/fleveque/awesome-awesomes) – Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language
 
-## Platforms
-
-- [Android](https://github.com/JStumpp/awesome-android)
-  - [Android Security](https://github.com/ashishb/android-security-awesome)
-- [Apple](https://github.com/joeljfischer/awesome-apple)
-- [iOS](https://github.com/vsouza/awesome-ios)
+* [lists](https://github.com/jnv/lists)
 
 
 
 ## Programming languages
-
 
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
@@ -52,6 +50,7 @@ base on [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomen
   - [by @kirang89](https://github.com/kirang89/pycrumbs)
   - [by @svaksha](https://github.com/svaksha/pythonidae)
   - [Django](https://github.com/rosarior/awesome-django)
+  - [flask](https://github.com/humiaozuzu/awesome-flask)
 - [PHP](https://github.com/ziadoz/awesome-php)
   - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [R](https://github.com/qinwf/awesome-R)
@@ -66,63 +65,50 @@ base on [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomen
   - [by @Wolg](https://github.com/Wolg/awesome-swift)
   - [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
-
-## Web development
-
-- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
-- [HTML5](https://github.com/diegocard/awesome-html5)
-- [Sass](https://github.com/HugoGiraudel/awesome-sass)
-- [React](https://github.com/enaqx/awesome-react)
-
-## Data
-
-- Big data
-  - [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
-  - [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
-  - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-- [Data Science](https://github.com/okulbilisim/awesome-datascience)
-- [Database](https://github.com/numetriclabz/awesome-db)
-
-
 ## General
+- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - Books
   - [Free Programming Books](https://github.com/vhf/free-programming-books)
+  - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
   - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
+  - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
+- Data
+  - Big data
+    - [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
+    - [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
+    - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+  - [Data Science](https://github.com/okulbilisim/awesome-datascience)
+  - [Database](https://github.com/numetriclabz/awesome-db)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
-- [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+- Editor
+  - [Emacs](https://github.com/emacs-tw/awesome-emacs)
+  - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+  - Vim
+    - [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
+    - [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- Platforms
+  - [Android](https://github.com/JStumpp/awesome-android)
+    - [Android Security](https://github.com/ashishb/android-security-awesome)
+  - [Apple](https://github.com/joeljfischer/awesome-apple)
+  - [iOS](https://github.com/vsouza/awesome-ios)
+- [repo_starred](https://github.com/flyhigher139/repo_starred)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
-- Vim
-  - [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
-  - [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
-
-
-## Theories & practices
-
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [Free Programming Books](https://github.com/vhf/free-programming-books)
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms)
-
-
-## Miscellaneous
-
-
-
-- [Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
-- [Laravel](https://github.com/tuwannu/awesome-laravel)
+- Web development
+  - [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+  - [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+  - [HTML5](https://github.com/diegocard/awesome-html5)
+  - [Sass](https://github.com/HugoGiraudel/awesome-sass)
+  - [React](https://github.com/enaqx/awesome-react)
