@@ -112,3 +112,7 @@ a list of awesome repos
   - [HTML5](https://github.com/diegocard/awesome-html5)
   - [Sass](https://github.com/HugoGiraudel/awesome-sass)
   - [React](https://github.com/enaqx/awesome-react)
+
+##Contributing
+
+For contributing, open an [issue](https://github.com/flyhigher139/awesome-collection/issues) and/or a [pull request](https://github.com/flyhigher139/awesome-collection/pulls).
