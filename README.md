@@ -83,6 +83,7 @@ a list of awesome repos
     - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
   - [Data Science](https://github.com/okulbilisim/awesome-datascience)
   - [Database](https://github.com/numetriclabz/awesome-db)
+  - [awesome-firebase](https://github.com/justjavac/awesome-firebase)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - Editor
   - [Emacs](https://github.com/emacs-tw/awesome-emacs)
