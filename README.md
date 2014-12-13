@@ -92,6 +92,7 @@ a list of awesome repos
     - [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
     - [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 - [Game Development](https://github.com/ellisonleao/magictools)
+- [games](https://github.com/leereilly/games)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [Images](https://github.com/heyalexej/awesome-images)
