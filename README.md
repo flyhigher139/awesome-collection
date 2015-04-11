@@ -105,6 +105,7 @@ a list of awesome repos
   - [iOS](https://github.com/vsouza/awesome-ios)
 - [resources](https://github.com/HackerCollective/resources)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
+- [Space](https://github.com/elburz/awesome-space)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
