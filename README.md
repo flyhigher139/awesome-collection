@@ -21,6 +21,7 @@ a list of awesome repos
 
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
